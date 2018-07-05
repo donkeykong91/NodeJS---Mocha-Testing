@@ -14,4 +14,8 @@ describe("Tools", function () {
 
   });
 
+  describe("loadWiki()", function () {
+    it("Load Abraham Lincoln's wikipedia page");
+  });
+
 });
